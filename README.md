@@ -40,3 +40,6 @@
  - presentation : 발표 ppt와 포스터
  - source : 실행과 관계가 있는 폴더들
  - source_test : 프로젝트를 진행하면서 작성된 파일들(실행과는 관계 없음)
+
+# 시연영상
+ https://youtu.be/trC5Xqq5r1Q
