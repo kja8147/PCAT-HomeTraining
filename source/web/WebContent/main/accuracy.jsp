@@ -1,0 +1,20 @@
+<%@ page language="java" contentType="text/html; charset=EUC-KR" pageEncoding="EUC-KR"%>
+<%@page import="java.io.*"%>
+
+<!-- written by 김윤하, 2020 : 파일에서 자세 정확도 가져옴 -->
+<%
+try{
+	String filePath = "C:/Users/20175/Desktop/IMAGE/ac.txt";
+
+	FileReader fr = new FileReader(filePath); //파일읽기객체생성
+	BufferedReader br = new BufferedReader(fr); //버퍼리더객체생성
+
+	String line = null;
+	line = br.readLine();
+	//System.out.println("정확도 " + line);
+	out.print(line);
+}
+catch(Exception e){
+	e.printStackTrace();
+}
+%>
