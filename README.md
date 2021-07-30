@@ -25,7 +25,7 @@
 # 프로젝트 구성도
 ![image](https://user-images.githubusercontent.com/55430276/101646961-87e12600-3a7b-11eb-85a7-6fbb6cdd93d3.png)
 
-#openpose 이용
+# openpose 이용
 - 사용 전
 ![image](https://user-images.githubusercontent.com/55430276/101647173-c37bf000-3a7b-11eb-82e3-409c7b54231a.png)
 - 사용 후
