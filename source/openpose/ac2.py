@@ -31,7 +31,7 @@ def calAngle(img):
         print(i, ':result: ', ang)
     return angArr
 
-# by 김윤하, 정확도 계산
+# by 김진아, 정확도 계산
 def calScore(res1,res2):
     cnt,total = 0,0
     state=""
