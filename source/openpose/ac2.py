@@ -35,7 +35,8 @@ def calAngle(img):
 def calScore(res1,res2):
     cnt,total = 0,0
     state=""
-
+    
+    # 원본영상과 자세 정확도 계산 및 결과출력
     for i in range(10):
         num = abs(res1[i] - res2[i])
         if num > 10:
