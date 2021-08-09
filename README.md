@@ -1,6 +1,6 @@
 # PCAT-HomeTraining
 
-2020-2 캡스톤 디자인(openpos를 이용한 홈 트레이닝 서비스)
+2020-2 캡스톤 디자인(openpos를 이용한 홈 트레이닝 서비스) 
 
 # 팀
 - 팀명 : Pcat(피켓)
